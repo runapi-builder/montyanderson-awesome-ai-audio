@@ -23,3 +23,4 @@ Inspired by [awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3).
 ## Developer Tools
 
 - [Okio](https://okio.ai/)
+- [RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk)
